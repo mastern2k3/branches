@@ -15,3 +15,21 @@
 XX    X    X                                                    XX       XX
 XX   X    X                                                               X
 X   X    X                                                                X
+X       X              8                                 8                X
+X                       8                               8                 X
+X                  8     8                             8   8              X
+X                   8  8  8                           8  8   8            X
+X                    8  8  8                         8  8  88             X
+X                     8  8  8                       XXXX  8               X
+X                      8 XXXX                       XXXXX8                X
+XX                      XXXXXX                    XXXXXXXX               XX
+XX                     XXXXXXXX                  XXXXXXXXXX              XX
+XX                    XXXXXXXXXX                XXXXXXXXXXXX             XX
+ XX                  XXXXXXXXXXXX               XXXXXXXXXXXXX           XX
+  XX                 XXXXXXXXXXXXX             XXXXXXXXXXXXXX          XX
+  XX                XXXXXXXXXXXXXX            XXXXXXXXXXXXXXX          XX
+  XX                XXXXXXXXXXXXXX           XXXXXXXXXXXXXXXX          XX
+   XX              XXXXXXXXXXXXXXX           XXXXXXXXXXXXXXXX         XX
+    XX             XXXXXXXXXXXXXXX           XXXXXXX    XXXXX        XX
+     XX            XXXXXXX   XXXXX           XXXXXX      XXXX       XX
+     XX            XXXXXX     XXX            XXXXX       XXXX       XX
